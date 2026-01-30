@@ -1,6 +1,6 @@
-# Smart Geocoding with Google Maps API
+# Geocoding with Google Maps API
 
-Bulk geocoding tool with automatic directional offset correction and quality flagging. Built for geocoding location data from insect specimen labels.
+Bulk geocoding tool with automatic directional offset correction and quality flagging.
 
 ## Features
 
